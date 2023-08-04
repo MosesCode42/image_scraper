@@ -1,3 +1,3 @@
 # image_scraper
 
-## Image scrapping, first deployment on AWS 
+## Image scrapping, first test deployment on AWS 
